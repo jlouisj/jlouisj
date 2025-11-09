@@ -10,7 +10,7 @@ currently working on:
 building a portfolio site to display projects
 
 currently learning:
-p5.js
+javascript / p5.js
 <!--
 **jlouisj/jlouisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
